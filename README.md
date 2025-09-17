@@ -1,2 +1,2 @@
 # sample_proj3
-my name is 이현규.
+강민석, 이현규, 이현정, 허주
